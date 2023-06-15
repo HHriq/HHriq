@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Yomogi&size=30&pause=1000&color=0F71FF&center=true&vCenter=true&width=435&lines=++Hi%2C+I'm+Henry!" alt="Typing SVG" /></a>
 
-  ### <p align="center"> <strong> A Developer Studant </strong> </p>
+  ### <p align="center"> <strong> A Developer Student </strong> </p>
 
 </div>
 
