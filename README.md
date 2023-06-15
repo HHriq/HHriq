@@ -34,6 +34,10 @@
 </div>
  
 
+  
+  ![Snake animation](https://github.com/HHriq/HHriq/blob/output/github-contribution-grid-snake.svg)
+  
+  
  <br>
  
   ### <p align="center">My social media</p> 
