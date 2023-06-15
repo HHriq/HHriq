@@ -1,4 +1,6 @@
 
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Yomogi&size=30&pause=1000&color=0F71FF&center=true&vCenter=true&width=435&lines=++Hi%2C+I'm+Henry!" alt="Typing SVG" /></a>
 
@@ -7,7 +9,7 @@
 </div>
 
 
-<br><br>
+
 
 
 • 🌱 I’m currently learning Front-end with DevQuest.
@@ -31,7 +33,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-![Snake animation](https://github.com/HHriq/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HHriq/HHriq/blob/output/github-contribution-grid-snake.svg)
 
  <br>
  
@@ -46,6 +48,7 @@
  
 
 </div>
+
 
 
 
