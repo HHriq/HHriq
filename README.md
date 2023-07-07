@@ -39,7 +39,7 @@
   
  <br>
  
-  ### <p align="center">"Connect with me."!</p> 
+  ### <p align="center">Connect with me.!</p> 
  
 <div align="center"> 
   
