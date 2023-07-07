@@ -10,8 +10,6 @@
 
 
 
-
-
 • 🌱 I’m currently learning **Front-end** with *DevQuest*.
 
 • 👨‍💻 All of my projects are available <a href="https://github.com/HHriq?tab=repositories" target="_blank"> here </a>.
@@ -41,7 +39,7 @@
   
  <br>
  
-  ### <p align="center">My social media</p> 
+  ### <p align="center">"Connect with me."!</p> 
  
 <div align="center"> 
   
