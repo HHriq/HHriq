@@ -10,7 +10,7 @@
 
 
 
-• 🌱 I’m currently learning **Front-end** with *DevQuest* and I'm a **Cloud Data Engineering** intern at *CompassUol*!
+• 🌱 I’m currently learning **Front-end** with *DevQuest* and I'm a **Cloud Data Engineering** intern at [Compass.uol](https://compass.uol/pt/home/?utm_source=google-ads&utm_medium=ppc&utm_campaign=compasso-uol-institucional&utm_term=compass+uol)!
 
 • 👨‍💻 All of my projects are available <a href="https://github.com/HHriq?tab=repositories" target="_blank"> here </a>.
 
