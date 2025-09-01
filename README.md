@@ -14,10 +14,6 @@
 
 • 👨‍💻 All of my projects are available <a href="https://github.com/HHriq?tab=repositories" target="_blank"> here </a>.
 
-• 📫 How to reach me: **itshriq@gmail.com**
-
-⚡ Fun fact: I love animes! There's an anime called BLEACH (my fav), and when I was a kid, I'd go to anime events in my city just to SING bleach songs at the event's karaoke. I know them all! ALL. OF. THEM. 😉
-
 
 <div align="center">
   <a href="https://github.com/HHriq">
@@ -41,9 +37,8 @@
 <div align="center"> 
   
   <a href="https://www.linkedin.com/in/hriq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <br>
-  <a href="https://www.instagram.com/hriq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <br>
   <a href="mailto:itshriq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <br>
-  [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/HHriq)](https://www.frontendmentor.io/profile/HHriq)&nbsp;
+
  
 </div>
 
